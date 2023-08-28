@@ -1,0 +1,10 @@
+NOTE: This program was written in Python v3.10.6 
+
+selenium v4.4.3
+pip install selenium 
+
+chromedriver_autoinstaller v0.4.0
+pip install chromedriver-autoinstaller 
+
+tkiner v8.6
+pip install tk
